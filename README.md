@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi
 
+
+<div align="center">
+  <h2>Visitor's Count 👀</h2>
+  <img src="https://count.getloli.com/@aaandrewww666stone?theme=booru-qualityhentais" />
+</div>
 <!--
 **aaandrewww666/aaandrewww666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
